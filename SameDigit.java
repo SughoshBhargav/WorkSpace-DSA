@@ -1,4 +1,4 @@
-public class SameDigit {
+public class SameDigit{
     public static void main(String[] args) {
         String str = "2300019";
         System.out.println(findDigit(str));
