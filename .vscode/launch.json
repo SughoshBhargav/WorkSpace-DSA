@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindPrefixPosition",
+            "request": "launch",
+            "mainClass": "FindPrefixPosition",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "RelativeSortArray",
+            "request": "launch",
+            "mainClass": "RelativeSortArray",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "ConsecutiveCards",
+            "request": "launch",
+            "mainClass": "ConsecutiveCards",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "SortedNot",
+            "request": "launch",
+            "mainClass": "SortedNot",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "MakeArrayIncreasing",
+            "request": "launch",
+            "mainClass": "MakeArrayIncreasing",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
