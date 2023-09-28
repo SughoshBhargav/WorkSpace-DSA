@@ -2,7 +2,7 @@ public class TwoSum {
 
     public static void main(String[] args) {
         
-        int arr[] = ;
+        int arr[] = {1,5};
         int target = 0;
         int ans[] = twoSum(arr,target);
     }

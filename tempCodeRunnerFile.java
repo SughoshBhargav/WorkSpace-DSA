@@ -1,3 +1,4 @@
-for(int i=0; i<words.length; i++){
-        //     System.out.println(words[0]);
-        // }
+
+                    if(arr[i][0] < minId){
+                        minId = arr[i][0];
+                    }

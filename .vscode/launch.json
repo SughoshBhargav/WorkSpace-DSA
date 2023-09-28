@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Vowel",
+            "request": "launch",
+            "mainClass": "Vowel",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "MedianofArray",
+            "request": "launch",
+            "mainClass": "MedianofArray",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "LongestTask",
+            "request": "launch",
+            "mainClass": "LongestTask",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "SubArraySum",
+            "request": "launch",
+            "mainClass": "SubArraySum",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "DayoftheYear",
+            "request": "launch",
+            "mainClass": "DayoftheYear",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
             "name": "FindPrefixPosition",
             "request": "launch",
             "mainClass": "FindPrefixPosition",
