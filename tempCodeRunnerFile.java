@@ -1,4 +1,5 @@
-
-                    if(arr[i][0] < minId){
-                        minId = arr[i][0];
-                    }
+for(int i=0; i<str.length; i++){
+        //     for(int j=0; j<str[i].length(); j++){
+        //         arr[str[i].charAt(j)-97] =  1;
+        //     }
+        

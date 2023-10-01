@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinOperation",
+            "request": "launch",
+            "mainClass": "MinOperation",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
             "name": "Vowel",
             "request": "launch",
             "mainClass": "Vowel",
