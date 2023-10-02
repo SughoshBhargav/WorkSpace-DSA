@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOddSort",
+            "request": "launch",
+            "mainClass": "EvenOddSort",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "ShortestDistance",
+            "request": "launch",
+            "mainClass": "ShortestDistance",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "LargestGroup",
+            "request": "launch",
+            "mainClass": "LargestGroup",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "RobotReturnOrigine",
+            "request": "launch",
+            "mainClass": "RobotReturnOrigine",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "Restaurant",
+            "request": "launch",
+            "mainClass": "Restaurant",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
             "name": "MinOperation",
             "request": "launch",
             "mainClass": "MinOperation",
