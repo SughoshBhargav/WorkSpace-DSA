@@ -18,6 +18,11 @@ public class Smaller {
                 int r1 = nums[i];
                 int r2 = nums[j];
                 if(nums[i]>nums[j])
+
+
+
+
+                
                     count++;
             }
             ansArray[i] = count;

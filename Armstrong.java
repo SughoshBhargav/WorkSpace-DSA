@@ -6,7 +6,7 @@ public class Armstrong {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         System.out.println(isArmStrong(num));
-
+        sc.close();
         
     }
 

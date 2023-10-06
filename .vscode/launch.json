@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumofNum",
+            "request": "launch",
+            "mainClass": "SumofNum",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "MinimumMoves",
+            "request": "launch",
+            "mainClass": "MinimumMoves",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "Unique",
+            "request": "launch",
+            "mainClass": "Unique",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
             "name": "EvenOddSort",
             "request": "launch",
             "mainClass": "EvenOddSort",
