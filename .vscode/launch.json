@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HappyNumber",
+            "request": "launch",
+            "mainClass": "HappyNumber",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
+            "name": "MaximumGap",
+            "request": "launch",
+            "mainClass": "MaximumGap",
+            "projectName": "JAVA_dd306a88"
+        },
+        {
+            "type": "java",
             "name": "SumofNum",
             "request": "launch",
             "mainClass": "SumofNum",

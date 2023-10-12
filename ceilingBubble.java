@@ -9,7 +9,6 @@ public class ceilingBubble {
 
         int start = 0;
         int end = arr.length-1;
-        int num = 0;
 
         while(start<=end){
             int mid = (start + end)/2;

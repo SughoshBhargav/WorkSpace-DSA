@@ -13,7 +13,8 @@ public class CharacterCase {
         else{
             ans = -1;
         }
-        
+        System.out.println(ans);
+        sc.close();
 
     }
 }

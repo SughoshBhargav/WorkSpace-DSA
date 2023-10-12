@@ -15,7 +15,8 @@ public class CR {
             }
         }
         System.out.println(count);
-
+        sc.close();
+        
     }
     
 }
